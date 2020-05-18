@@ -1,0 +1,61 @@
+body	{
+font-family: Brush Script MT, Brush Script Std, cursive;
+color: #A9A9A9;
+background-color: #000000;
+text-align: center;
+}
+h1	{
+font-size: 300%
+}
+h2	{
+font-size: 200%
+}
+nav	{
+font-family: "Courier New", Courier, monospace;
+background-color:#000000;
+padding: 10px;
+text-align: center;
+font-size: 100%;
+}
+nav a	{
+	text-decoration: none;
+}
+nav a:link	{
+	color: #FFFFFF;
+}
+nav a:visited	{
+	color: #F5F5F5;
+}
+nav a:hover		{
+	color: #F5F5F5;
+}
+main	{
+font-family: Garamond;
+font-size: 90%
+}
+main a	{
+float: left;
+}
+footer	{
+padding: 10px;
+}
+p	{
+font-family: Garamond;
+font-size: 150%;
+padding-left: 250px;
+padding-right: 250px;
+float: right;
+}
+iframe	{
+padding-left: 300px;
+padding-top: 50px;
+}
+footer	{
+	font-size: .90em;
+	font-style: italic;
+	font-family: Times New Roman;
+	text-align: center;
+	background-color: #000000;
+	color: #A9A9A9;
+	padding: 20px;
+}

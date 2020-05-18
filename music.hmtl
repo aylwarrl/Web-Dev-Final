@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html lang ="en">
+<head>
+<link rel="stylesheet" HREF="https://homepages.uc.edu/~aylwarrl/final_project/hyde.css">
+<title>Hyde and the Escapees</title>
+<meta charset="utf-8">
+</head>
+<body>
+
+<header><h1>Hyde and the Escapees</h1></header>
+
+<nav>
+		<a href="index.html">Home</a>	&nbsp;	
+		<a href="shows.html">Shows</a>	&nbsp;
+		<a href="about.html">About</a>	&nbsp;
+		<a href="photoandvideo.html">Photo & Video</a>	&nbsp;
+		<a href="music.html">Music</a>
+</nav>
+<footer>
+	Copyright &copy; 2017 Rebekah Aylward
+	This page was created by Reekah Aylward for IT2040
+</footer>
+</body>
+</html>
